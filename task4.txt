@@ -1,0 +1,2 @@
+Student ID: 230103256
+UserProfile[studentId=230103256, email=user@college.edu, accessLevel=4]
